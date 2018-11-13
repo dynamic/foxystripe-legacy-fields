@@ -1,0 +1,8 @@
+Dynamic\FoxyStripe\Model\ProductCategory:
+  default:
+    Code: 'DEFAULT'
+
+Dynamic\FoxyStripe\Page\ProductPage:
+  one:
+    Title: 'Product One'
+    CategoryID: =>Dynamic\FoxyStripe\Model\ProductCategory.default

@@ -1,0 +1,6 @@
+---
+Name: foxystripelegacy-fieldsconfig
+---
+Dynamic\FoxyStripe\Page\ProductPage:
+  extensions:
+    - Dynamic\FoxyStripe\ORM\ProductPageLegacy
